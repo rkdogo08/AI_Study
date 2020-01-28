@@ -11,4 +11,4 @@
 ##
 | date | Cource Contents | Lecture | Notebook |  Etc | 
 |:---:|:---:|:---:|:---:|:---:| 
-| 20.01.28 | Fancy Softmax Classification | [강의영상](https://www.youtube.com/watch?v=E-io76NlsqA&feature=youtu.be) | [colab](https://colab.research.google.com/drive/1Rhd2AQCSbLhAOR3vAZxHLV6kpJvwuxKn) |  |
+| 20.01.28 | Fancy Softmax Classification | [강의영상](https://www.youtube.com/watch?v=E-io76NlsqA&feature=youtu.be) | [colab](https://colab.research.google.com/drive/1Rhd2AQCSbLhAOR3vAZxHLV6kpJvwuxKn) | [cross entropy](https://github.com/rkdogo08/AI_Lecture/issues/1#issue-556134902) |
