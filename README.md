@@ -1,4 +1,5 @@
-# ÀÎ°øÁö´É
-## °­ÀÇ ÀÚ·á
-[19 ÀÎ°øÁö´É °­ÀÇ](https://github.com/sejongresearch/2019.Spring.AI)
-[¸ğµÎ¸¦ À§ÇÑ ¸Ó½Å·¯´×/µö·¯´× °­ÀÇ](https://hunkim.github.io/ml/)
+# ì¸ê³µì§€ëŠ¥
+## ê°•ì˜ ìë£Œ
+[19 ì¸ê³µì§€ëŠ¥ ê°•ì˜](https://github.com/sejongresearch/2019.Spring.AI)
+
+[ëª¨ë‘ë¥¼ ìœ„í•œ ë¨¸ì‹ ëŸ¬ë‹/ë”¥ëŸ¬ë‹ ê°•ì˜](https://hunkim.github.io/ml/)
