@@ -15,3 +15,7 @@
 | 20.01.31 |  MNIST Dataset | [강의영상](https://youtu.be/ktd5yrki_KA) | [colab](https://colab.research.google.com/drive/1ZFVRknMyNN8xcm7lOMWicpGpTxU2fFwJ#scrollTo=-J_HxuaZth19) |  |
 | 20.02.10-12|  MNIST Dataset/Keras | [예제](https://www.tensorflow.org/tutorials/keras/classification?hl=ko) | [colab](https://colab.research.google.com/drive/1ioPesdovZ0uJGEyuSrIz3PAZCPDfrrp4) |  |
 | 20.02.14|  keras 컨볼루션 신경망 | [강의 글](https://tykimos.github.io/2017/03/08/CNN_Getting_Started/) [/데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/) | [colab](https://colab.research.google.com/drive/1j4nZZschOWnKfYYs-vJtk5w0xBP1KRIa) |  |
+| 20.02.14|  RNN | [강의 글](https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/) | [colab](https://colab.research.google.com/drive/1uqoCS6oqV5ArWI5yyDEHwuTaqIhd7bvs) |  |
+
+
+
