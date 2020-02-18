@@ -19,6 +19,3 @@
 | 20.02.17-18 |  사인파입력 수치 예측 | [강의 글](https://tykimos.github.io/2017/09/09/Time-series_Numerical_Input_Numerical_Prediction_Model_Recipe/) | [colab](https://colab.research.google.com/drive/1o93FG_OEAYOPlHd_AcaO7rvrpfTITEFm) | [경사하강법](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html) |
 | 20.02.18 |  Q-Learing | [예제 블로그](https://m.blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220769665748&proxyReferer=https%3A%2F%2Fwww.google.com%2F) | [colab](https://colab.research.google.com/drive/1toA9yPZdWmDx8vnvdGHQqiF7ftVZ-g3w) |  |
 
-
-
-https://m.blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220769665748&proxyReferer=https%3A%2F%2Fwww.google.com%2F
