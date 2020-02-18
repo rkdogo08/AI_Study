@@ -7,7 +7,7 @@
    [강의 웹사이트](http://hunkim.github.io/ml/)  
    [슬라이드 모음](https://goo.gl/jPtWNt)  
    [코드 모음](https://github.com/hunkim/DeepLearningZeroToAll)
-
+ - [블럭과 함께하는 파이썬 딥러닝 케라스](https://tykimos.github.io/lecture/)
 ## 
 | date | Cource Contents | Lecture | Notebook |  Etc | 
 |:---:|:---:|:---:|:---:|:---:| 
