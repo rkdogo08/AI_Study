@@ -1,4 +1,5 @@
-#
+# 목표
+ double DQN
 
 ## 강의 자료
 - [19 인공지능 강의](https://github.com/sejongresearch/2019.Spring.AI)
