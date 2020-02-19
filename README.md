@@ -9,6 +9,8 @@
    [슬라이드 모음](https://goo.gl/jPtWNt)  
    [코드 모음](https://github.com/hunkim/DeepLearningZeroToAll)
  - [블럭과 함께하는 파이썬 딥러닝 케라스](https://tykimos.github.io/lecture/)
+ - 강화학습 첫걸음
+  [책 실습파일](https://github.com/kyoseoksong/RL_Book)
 ## 
 | date | Cource Contents | Lecture | Notebook |  Etc | 
 |:---:|:---:|:---:|:---:|:---:| 
@@ -20,4 +22,6 @@
 | 20.02.17-18 |  사인파입력 수치 예측 | [강의 글](https://tykimos.github.io/2017/09/09/Time-series_Numerical_Input_Numerical_Prediction_Model_Recipe/) | [colab](https://colab.research.google.com/drive/1o93FG_OEAYOPlHd_AcaO7rvrpfTITEFm) | [경사하강법](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html) |
 | 20.02.18 |  Q-Learing | [예제 블로그](https://m.blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220769665748&proxyReferer=https%3A%2F%2Fwww.google.com%2F) | [colab](https://colab.research.google.com/drive/1toA9yPZdWmDx8vnvdGHQqiF7ftVZ-g3w) |  |
 |  |  Bike-shring(Kaggle)  | [캐글 노트북](https://www.kaggle.com/zexyz123/tensorflow-cnn-only-6-feature) | [colab](https://colab.research.google.com/drive/1kNvKGDA5jKAi8NHvE6m0sXiqtsJNj-8M) |  |
+| 20.02.19 |  밴딧머신(멀티드암드)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap2.Simple-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1fHCBXJ7tZBSgxlWNR9JOjMdXGGy06kOx) |  |
+|  |  밴딧머신(콘텍스트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap3.Contextual-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1_DvcBYf89r0dpCGhAMYzqoPoIuaywydK) |  |
 
