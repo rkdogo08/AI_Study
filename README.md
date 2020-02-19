@@ -25,5 +25,5 @@
 | 20.02.18 |  Q-Learing | [예제 블로그](https://m.blog.naver.com/PostView.nhn?blogId=infoefficien&logNo=220769665748&proxyReferer=https%3A%2F%2Fwww.google.com%2F) | [colab](https://colab.research.google.com/drive/1toA9yPZdWmDx8vnvdGHQqiF7ftVZ-g3w) |  |
 |  |  Bike-shring(Kaggle)  | [캐글 노트북](https://www.kaggle.com/zexyz123/tensorflow-cnn-only-6-feature) | [colab](https://colab.research.google.com/drive/1kNvKGDA5jKAi8NHvE6m0sXiqtsJNj-8M) |  |
 | 20.02.19 |  밴딧머신(멀티드암드)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap2.Simple-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1fHCBXJ7tZBSgxlWNR9JOjMdXGGy06kOx) |  |
-|  |  밴딧머신(콘텍스트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap3.Contextual-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1_DvcBYf89r0dpCGhAMYzqoPoIuaywydK) |  |
+|  |  밴딧머신(콘텍스트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap3.Contextual-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1_DvcBYf89r0dpCGhAMYzqoPoIuaywydK) | [slim](https://excelsior-cjh.tistory.com/160) |
 
