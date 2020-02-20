@@ -26,4 +26,7 @@
 |  |  Bike-shring(Kaggle)  | [캐글 노트북](https://www.kaggle.com/zexyz123/tensorflow-cnn-only-6-feature) | [colab](https://colab.research.google.com/drive/1kNvKGDA5jKAi8NHvE6m0sXiqtsJNj-8M) |  |
 | 20.02.19 |  밴딧머신(멀티드암드)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap2.Simple-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1fHCBXJ7tZBSgxlWNR9JOjMdXGGy06kOx) |  |
 |  |  밴딧머신(콘텍스트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap3.Contextual-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1_DvcBYf89r0dpCGhAMYzqoPoIuaywydK) | [slim](https://excelsior-cjh.tistory.com/160) |
+|  |  정책 기반 에이전트(폴카트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap4.Vanilla-Policy.ipynb) | [03-Vanilla_Policy](https://colab.research.google.com/drive/14jAz_XvliAXYLXZlNJeom9q1ubfTWNu6) |  |
+
+
 
