@@ -28,5 +28,5 @@
 | 20.02.19 |  밴딧머신(멀티드암드)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap2.Simple-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1fHCBXJ7tZBSgxlWNR9JOjMdXGGy06kOx) |  |
 |  |  밴딧머신(콘텍스트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap3.Contextual-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1_DvcBYf89r0dpCGhAMYzqoPoIuaywydK) | [slim](https://excelsior-cjh.tistory.com/160) |
 |  |  정책 기반 에이전트(폴카트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap4.Vanilla-Policy.ipynb) | [03-Vanilla_Policy](https://colab.research.google.com/drive/14jAz_XvliAXYLXZlNJeom9q1ubfTWNu6) |  |
-| 20.02.20 |  Q_Table  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap5-1.Q-Table.ipynb) [/인프런](https://www.inflearn.com/course/reinforcement-learning) | [04-Q_Table](https://colab.research.google.com/drive/1DEKo8hzOzetDJC60vA7hmyP_48GpHNca) |  |
+| 20.02.20 |  Q_Table(FrozenLake)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap5-1.Q-Table.ipynb) [/인프런](https://www.inflearn.com/course/reinforcement-learning) | [04-Q_Table](https://colab.research.google.com/drive/1DEKo8hzOzetDJC60vA7hmyP_48GpHNca) |  |
 
