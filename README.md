@@ -39,7 +39,6 @@
 |  |  정책 기반 에이전트(폴카트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap4.Vanilla-Policy.ipynb) | [03-Vanilla_Policy](https://colab.research.google.com/drive/14jAz_XvliAXYLXZlNJeom9q1ubfTWNu6) |  |
 | 20.02.20 |  Q_Table(FrozenLake)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap5-1.Q-Table.ipynb) [/인프런](https://www.inflearn.com/course/reinforcement-learning) | [04-Q_Table](https://colab.research.google.com/drive/1DEKo8hzOzetDJC60vA7hmyP_48GpHNca) |  |
 | 20.03.02 |  Q_Network(FrozenLake)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5788) | [05-Q_Network](https://colab.research.google.com/drive/1IsQDB0nI5b1TPKK18XSQBxN4k8QBX1YR) |  |
-|  |  Q_Network(Pole Cart)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5789) | [05_2-Q_Network](
-https://colab.research.google.com/drive/1bpOyRwAKtSHlMXvb7EJInUm06wf7zMjN#scrollTo=ZiFNeSJoZcRi) |  |
+|  |  Q_Network(Pole Cart)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5789) | [05_2-Q_Network](https://colab.research.google.com/drive/1bpOyRwAKtSHlMXvb7EJInUm06wf7zMjN#scrollTo=ZiFNeSJoZcRi) |  |
 
 
