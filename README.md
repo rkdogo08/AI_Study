@@ -5,11 +5,20 @@
 - [19 인공지능 강의](https://github.com/sejongresearch/2019.Spring.AI)
 
  - 모두를 위한 딥러닝/머신러닝/
+   [강의 웹사이트](http://hunkim.github.io/ml/)
+   - <딥러닝>     
+      [인프런...](https://www.inflearn.com/course/)  
+      [코드 모음](https://github.com/hunkim/DeepLearningZeroToAll) 
+   - <강화학습>     
+     [인프런](https://www.inflearn.com/course/reinforcement-learning)  
+     [코드 모음](https://github.com/hunkim/ReinforcementZeroToAll) 
+   
 
-   [강의 웹사이트](http://hunkim.github.io/ml/)  
+  
    [슬라이드 모음](https://goo.gl/jPtWNt)  
-   [코드 모음](https://github.com/hunkim/DeepLearningZeroToAll)  
-   [인프런](https://www.inflearn.com/course/reinforcement-learning)
+ 
+
+   
  - [블럭과 함께하는 파이썬 딥러닝 케라스](https://tykimos.github.io/lecture/)
  - 강화학습 첫걸음  
  
@@ -29,4 +38,4 @@
 |  |  밴딧머신(콘텍스트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap3.Contextual-Policy.ipynb) | [colab](https://colab.research.google.com/drive/1_DvcBYf89r0dpCGhAMYzqoPoIuaywydK) | [slim](https://excelsior-cjh.tistory.com/160) |
 |  |  정책 기반 에이전트(폴카트)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap4.Vanilla-Policy.ipynb) | [03-Vanilla_Policy](https://colab.research.google.com/drive/14jAz_XvliAXYLXZlNJeom9q1ubfTWNu6) |  |
 | 20.02.20 |  Q_Table(FrozenLake)  | [예제](https://github.com/kyoseoksong/RL_Book/blob/master/Chap5-1.Q-Table.ipynb) [/인프런](https://www.inflearn.com/course/reinforcement-learning) | [04-Q_Table](https://colab.research.google.com/drive/1DEKo8hzOzetDJC60vA7hmyP_48GpHNca) |  |
-
+| 20.03.02 |  Q_Network(FrozenLake)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5788) | [05-Q_Network](https://colab.research.google.com/drive/1IsQDB0nI5b1TPKK18XSQBxN4k8QBX1YR) |  |
