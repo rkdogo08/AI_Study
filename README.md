@@ -15,7 +15,9 @@
    [슬라이드 모음](https://goo.gl/jPtWNt)      
  - [블럭과 함께하는 파이썬 딥러닝 케라스](https://tykimos.github.io/lecture/)     
  - 강화학습 첫걸음     
-   [책/실습파일](https://github.com/kyoseoksong/RL_Book)
+   [책/실습파일](https://github.com/kyoseoksong/RL_Book)      
+ - 파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문 : 웹 크롤링과 스크레이핑부터 머신러닝·딥러닝까지 체계적으로 배우기       
+   [온라인 강의](https://www.youtube.com/watch?v=l_XFlB1Wwz8&list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS&index=1)
    
 ## 
 | date | Cource Contents | Lecture | Notebook |  Etc | 
@@ -35,4 +37,4 @@
 | 20.03.02 |  Q_Network(FrozenLake)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5788) | [05-Q_Network](https://colab.research.google.com/drive/1IsQDB0nI5b1TPKK18XSQBxN4k8QBX1YR) |  |
 | 20.03.02-05 |  Q_Network(Pole Cart)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5789) | [05_2-Q_Network](https://colab.research.google.com/drive/1bpOyRwAKtSHlMXvb7EJInUm06wf7zMjN#scrollTo=ZiFNeSJoZcRi) |  |
 | 20.03.05 |  DQN  |  [이론](https://www.inflearn.com/course/reinforcement-learning/lecture/5791) |  |  |
-
+| 20.03 |  BeautifulSoup  |  [이론](https://www.youtube.com/watch?v=HtJMZo2NyMk&list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS&index=5) |  | [코드](https://colab.research.google.com/drive/1yUL1wqOW5iLikxr6DkzJAXGu-HPrx6fu) |
