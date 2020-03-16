@@ -11,18 +11,12 @@
       [코드 모음](https://github.com/hunkim/DeepLearningZeroToAll) 
    - <강화학습>     
      [인프런](https://www.inflearn.com/course/reinforcement-learning)  
-     [코드 모음](https://github.com/hunkim/ReinforcementZeroToAll) 
+     [코드 모음](https://github.com/hunkim/ReinforcementZeroToAll)     
+   [슬라이드 모음](https://goo.gl/jPtWNt)      
+ - [블럭과 함께하는 파이썬 딥러닝 케라스](https://tykimos.github.io/lecture/)     
+ - 강화학습 첫걸음     
+   [책/실습파일](https://github.com/kyoseoksong/RL_Book)
    
-
-  
-   [슬라이드 모음](https://goo.gl/jPtWNt)  
- 
-
-   
- - [블럭과 함께하는 파이썬 딥러닝 케라스](https://tykimos.github.io/lecture/)
- - 강화학습 첫걸음  
- 
-   [책 실습파일](https://github.com/kyoseoksong/RL_Book)
 ## 
 | date | Cource Contents | Lecture | Notebook |  Etc | 
 |:---:|:---:|:---:|:---:|:---:| 
