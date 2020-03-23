@@ -40,4 +40,5 @@
 | 20.03 |  BeautifulSoup  |  [이론](https://www.youtube.com/watch?v=HtJMZo2NyMk&list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS&index=5) | [코드](https://colab.research.google.com/drive/1yUL1wqOW5iLikxr6DkzJAXGu-HPrx6fu) |  |
 | 20.03.1주차 |  크롤링  |  머신러닝, 딥러닝 실전 | [엄연구소1](https://colab.research.google.com/drive/1yUL1wqOW5iLikxr6DkzJAXGu-HPrx6fu) |  |
 | 20.03.2주차 |  크롤링  |  머신러닝, 딥러닝 실전 | [엄연구소2](https://colab.research.google.com/drive/1jl_4l9_GCRJhbGzOUiW9_RfCulFOXEyi) |  |
+| 20.03.2주차 |  데이터 포멧  |  머신러닝, 딥러닝 실전 | [엄연구소3](https://colab.research.google.com/drive/154Z92SxdK3XGyJieKI6szJTpHWdG9pcl) |  |
 
