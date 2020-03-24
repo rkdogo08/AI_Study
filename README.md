@@ -37,7 +37,7 @@
 | 20.03.02 |  Q_Network(FrozenLake)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5788) | [05-Q_Network](https://colab.research.google.com/drive/1IsQDB0nI5b1TPKK18XSQBxN4k8QBX1YR) |  |
 | 20.03.02-05 |  Q_Network(Pole Cart)  |  [인프런](https://www.inflearn.com/course/reinforcement-learning/lecture/5789) | [05_2-Q_Network](https://colab.research.google.com/drive/1bpOyRwAKtSHlMXvb7EJInUm06wf7zMjN#scrollTo=ZiFNeSJoZcRi) |  |
 | 20.03.05 |  DQN  |  [이론](https://www.inflearn.com/course/reinforcement-learning/lecture/5791) |  |  |
-
+| 20.03.24 |  DQN  |  인프런 | [05_2-Q_Network](https://colab.research.google.com/drive/1-S8RKB9Ysj1INVelc2ne87wtmuwezS9m) |  |
 ## 
 | date | Cource Contents | Lecture | Notebook |  Etc | 
 |:---:|:---:|:---:|:---:|:---:| 
