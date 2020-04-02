@@ -45,5 +45,6 @@
 | 20.03.1주차 |  크롤링  |  머신러닝, 딥러닝 실전 | [엄연구소1](https://colab.research.google.com/drive/1yUL1wqOW5iLikxr6DkzJAXGu-HPrx6fu) |  |
 | 20.03.2주차 |  크롤링  |  머신러닝, 딥러닝 실전 | [엄연구소2](https://colab.research.google.com/drive/1jl_4l9_GCRJhbGzOUiW9_RfCulFOXEyi) |  |
 | 20.03.3주차 |  데이터 포멧  |  머신러닝, 딥러닝 실전 | [엄연구소3](https://colab.research.google.com/drive/154Z92SxdK3XGyJieKI6szJTpHWdG9pcl) |  |
-| 20.03.3주차 |  Help Navigate Robots  |  [캐글](https://www.kaggle.com/c/career-con-2019/overview) | [코랩](https://colab.research.google.com/drive/1LS6UA4z7OvMou0easecAJPnyne4eQWv2) | 정확도 : 0.34 |
+| 20.03.3주차 |  Help Navigate Robots  |  [캐글](https://www.kaggle.com/c/career-con-2019/overview) | | 정확도 : 0.34 |
 | 20.03.4주차 |  머신러닝  |  머신러닝, 딥러닝 실전 | [엄연구소4](https://colab.research.google.com/drive/1r5FKgC72d468vElrXqCCFQ2sWivfvKiQ) |  |
+| 20.03.3주차 |  Help Navigate Robots  |  [캐글](https://www.kaggle.com/c/career-con-2019/overview) | [코랩](https://colab.research.google.com/drive/1LS6UA4z7OvMou0easecAJPnyne4eQWv2) | 정확도 : 0.58 |
