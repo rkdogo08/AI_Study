@@ -48,4 +48,6 @@
 | 20.03.3주차 |  Help Navigate Robots  |  [캐글](https://www.kaggle.com/c/career-con-2019/overview) | | 정확도 : 0.34 |
 | 20.03.4주차 |  머신러닝  |  머신러닝, 딥러닝 실전 | [엄연구소4](https://colab.research.google.com/drive/1r5FKgC72d468vElrXqCCFQ2sWivfvKiQ) |  |
 | 20.03.4주차 |  Help Navigate Robots  |  [캐글](https://www.kaggle.com/c/career-con-2019/overview) | [Help Navigate Robots](https://colab.research.google.com/drive/1LS6UA4z7OvMou0easecAJPnyne4eQWv2) | 정확도 : 0.58 |
-| 20.04.1주차 |  Keras, 자연어처리  |  머신러닝, 딥러닝 실전 | [엄연구소5](https://colab.research.google.com/drive/12gV5U_GJL9IuRilATJvDe-Im5uyqJNi_) |  |
+| 20.04.1주차 |  Keras, 자연어처리  |  머신러닝, 딥러닝 실전 | [엄연구소5](https://colab.research.google.com/drive/12gV5U_GJL9IuRilATJvDe-Im5uyqJNi_) |  |(https://colab.research.google.com/drive/1LS6UA4z7OvMou0easecAJPnyne4eQWv2) | 정확도 : 0.58 |
+| 20.04.2주차 |  Keras, 자연어처리  |  머신러닝, 딥러닝 실전 | [엄연구소6](https://colab.research.google.com/drive/15dzbwdn2bAGWuzlabZo22D41l0IkFZoH) |  |
+
