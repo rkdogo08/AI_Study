@@ -52,6 +52,6 @@
 | 20.04.2주차 |  자연어처리  |  머신러닝, 딥러닝 실전 | [엄연구소6](https://colab.research.google.com/drive/15dzbwdn2bAGWuzlabZo22D41l0IkFZoH) |  |
 | 20.04.3주차 |  강화학습  |  Q Learning | [엄연구소7](https://colab.research.google.com/drive/1MCw8S-GhJisQ0ty8EuWZH9S1uDSphy0d) | [강화학습](https://github.com/rkdogo08/AI_Study/blob/master/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5.pdf) |
 | 20.04.4주차 | 자연어 임베딩 | Word2Vec, RF | [엄연구소8](https://colab.research.google.com/drive/1hBq_Xrih-rm6TKp3SSR00NwlIyx3DAEk) |  |
-| 20.04.5주차 | 자연어 임베딩 | Word2Vec, xgboost | [엄연구소9]() |  |
+| 20.04.5주차 | 자연어 임베딩 | Word2Vec, xgboost | [엄연구소9](https://colab.research.google.com/drive/1yl9mGBwOPBUO3det-bSLMUVCUC7hHnzR?usp=sharing) |  |
 
 
